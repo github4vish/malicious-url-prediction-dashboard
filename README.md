@@ -215,10 +215,24 @@ Students must submit:
 
 ```
 /project-folder
+│   .gitignore
+│   app.py
+│   LICENSE
+│   README.md
+│   requirements.txt
 │
-├── index.html
-├── script.js
-├── styles.css (optional)
+├───static
+│   └───js
+│           dashboard.js
+│
+├───templates
+│       index.html
+│
+├───tests
+│       APITest.http
+│
+└───training
+        train_model.js
 ```
 
 ### Rules:
