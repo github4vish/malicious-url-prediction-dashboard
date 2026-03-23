@@ -1,0 +1,16 @@
+URL,Label
+https://www.google.com,Benign
+https://www.amazon.in,Benign
+https://github.com/login,Benign
+http://example-bank.com/login,Benign
+https://secure-paypal.com,Benign
+http://192.168.1.1/login,Malicious
+http://free-money-offer.xyz,Malicious
+http://login-update-bank.info,Malicious
+http://verify-account-security-alert.com,Malicious
+http://cheap-loan-fast-cash.ru,Malicious
+https://facebook.com,Benign
+https://openai.com,Benign
+http://update-your-password-now.com,Malicious
+http://123.45.67.89/secure,Malicious
+https://www.microsoft.com,Benign
