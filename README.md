@@ -1,5 +1,3 @@
-Here is your simplified **6-step version** of the assignment (clean, student-friendly, no coding examples):
-
 ---
 
 # 🛡️ Malicious URL Dashboard – Simple 6 Steps Guide
@@ -194,4 +192,4 @@ Response → Dashboard Visualization
 
 ---
 
-If you want, I can next convert this into a **lab manual format (Aim, Procedure, Result)** or a **student-ready PDF/notes** 👍
+
